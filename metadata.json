@@ -1,0 +1,6 @@
+{
+  "name": "Viper X Nebula Dice",
+  "description": "Viper X Nebula Dice - 4'lü renk zarı, tur yanında hızlı renk engelleme (Block Color) ve kozmik temalı zar simülatörü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
